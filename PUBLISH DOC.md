@@ -46,8 +46,13 @@ exito.upload-promotions-graphql 0.1.0(linked)
 </blockquote>
 <h2 id="se-identificaron-los-siguientes-fallos-al-publicar-en-exitocol">Se identificaron los siguientes fallos al publicar en exitocol</h2>
 <ul>
-<li>Al instalar en exitocol el store. se esta ejecutando constantemente una petición. ver que sucede, se instalo la ultima versión en el workspace dev de exitocol.<br>
-<a href="https://dev--exitocol.myvtex.com/">dev exitocol</a></li>
+<li>
+<p>El menu en exitocol no esta obteniendo el resultado. hay que revisar esta parte.</p>
+</li>
+<li>
+<p>Al instalar en exitocol el store. se esta ejecutando constantemente una petición. ver que sucede, se instalo la ultima versión en el workspace dev de exitocol.<br>
+<a href="https://dev--exitocol.myvtex.com/">dev exitocol</a></p>
+</li>
 </ul>
 <p>Log capturado</p>
 <pre class=" language-json"><code class="prism  language-json"><span class="token punctuation">{</span>
